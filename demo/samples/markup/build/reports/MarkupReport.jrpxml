@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperPrint xmlns="http://jasperreports.sourceforge.net/jasperreports/print" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/print http://jasperreports.sourceforge.net/xsd/jasperprint.xsd" name="MarkupReport" pageWidth="595" pageHeight="842" topMargin="30" leftMargin="20" bottomMargin="30" rightMargin="20" locale="en_US" timezone="Australia/Melbourne">
+	<property name="net.sf.jasperreports.export.xml.start.page.index" value="0"/>
+	<property name="net.sf.jasperreports.export.xml.end.page.index" value="0"/>
+	<property name="net.sf.jasperreports.export.xml.page.count" value="1"/>
+	<origin band="title"/>
+	<origin band="detail"/>
+	<style name="Sans_Normal" isDefault="true" fontName="DejaVu Sans" fontSize="10" isBold="false" isItalic="false" isUnderline="false" isStrikeThrough="false"/>
+	<page>
+		<text textHeight="93.125" markup="styled" lineSpacingFactor="1.1640625" leadingOffset="-3.7734375">
+			<reportElement uuid="ad41424d-75ee-4d62-8819-890139cc26bd" mode="Opaque" x="20" y="30" width="555" height="110" backcolor="#C0C0C0" origin="0" srcId="1" printId="1"/>
+			<font size="16"/>
+			<textContent><![CDATA[This is a <style isBold="true" isItalic="true" isUnderline="true">static text</style> element containing styled text. <style isBold="true" isItalic="true" backcolor="#FFFF00">Styled text</style> elements are introduced by setting the <style isItalic="true" forecolor="#0000FF">markup</style> attribute available for the <style isBold="true" forecolor="#FF00FF">textElement</style> tag to <style isItalic="true" forecolor="#FF0000">styled</style> and by formatting the text content using nested <style isBold="true" forecolor="#00FF00">style</style> tags and simple HTML tags, including <style isBold="true" isItalic="true" isUnderline="true" forecolor="#FFFF00"><a href="http://jasperreports.sf.net" type="Reference" target="Blank">hyperlinks</a></style>.]]></textContent>
+		</text>
+		<text textHeight="74.5" markup="rtf" lineSpacingFactor="1.1640625" leadingOffset="-3.7734375">
+			<reportElement uuid="6061e7da-5309-4074-bcb1-811c11c5a864" mode="Opaque" x="20" y="150" width="555" height="110" backcolor="#C0C0C0" origin="0" srcId="2" printId="1"/>
+			<font size="16"/>
+			<textContent><![CDATA[<style isBold="false" isItalic="false">This is a </style><style isBold="true" isItalic="true" isUnderline="true">text field</style><style isBold="true" isItalic="true"> </style><style isBold="false" isItalic="false">element containing </style><style isBold="false" isItalic="false" forecolor="#00FF00">RTF</style><style isBold="false" isItalic="false"> text. </style><style isBold="true" isItalic="true">RTF snippets</style><style isBold="false" isItalic="false"> can be used inside text elements by setting the </style><style isBold="false" isItalic="true" forecolor="#0000FF">markup </style><style isBold="false" isItalic="false">attribute available for the </style><style isBold="true" isItalic="false" forecolor="#FF00FF">textElement </style><style isBold="false" isItalic="false">tag to </style><style isBold="false" isItalic="true" forecolor="#FF0000">rtf</style><style isBold="false" isItalic="false">.
+</style>]]></textContent>
+		</text>
+		<text textHeight="533.1406" markup="html" lineSpacingFactor="1.1640625" leadingOffset="-3.3017578">
+			<reportElement uuid="4db40b8d-d3cc-4f53-be82-c5aeb3ce5452" mode="Opaque" x="20" y="270" width="555" height="533" backcolor="#C0C0C0" origin="0" srcId="3" printId="1"/>
+			<font size="16"/>
+			<textContent><![CDATA[<style size="14.0">This is a </style><style isBold="true" isItalic="true" isUnderline="true" size="14.0">text field</style><style size="14.0"> element containing </style><style isBold="true" isUnderline="true" size="14.0" forecolor="#FF8800"><a href="http://en.wikipedia.org/wiki/HTML?x=1&amp;y=2" type="Reference" target="_blank">HTML</a></style><style size="14.0"> text. </style><style isBold="true" isItalic="true" size="14.0" backcolor="#FFFF00">HTML snippets</style><style size="14.0"> can be used inside text elements by setting the </style><style isItalic="true" size="14.0" forecolor="#0000FF">markup </style><style size="14.0">attribute available for the </style><style isBold="true" size="14.0" forecolor="#FF00FF">textElement </style><style size="14.0">tag to </style><style isItalic="true" size="14.0" forecolor="#FF0000">html</style><style size="14.0">.</style>
+
+This is a bulleted list of fruits:
+
+    •  apple
+    •  banana
+    •  cherry
+
+This is a numbered list of sports starting with number 4:
+
+    4.  football
+    5.  rugby
+    6.  tennis
+
+This is a lettered list of shapes starting with letter c:
+
+    c.  circle
+    d.  ellipse
+    e.  rectangle
+
+Following is a numbered list of animals using Roman numerals and starting with number 3 (III):
+
+    III.  lion
+    IV.  elephant
+    V.  zebra
+]]></textContent>
+		</text>
+	</page>
+</jasperPrint>

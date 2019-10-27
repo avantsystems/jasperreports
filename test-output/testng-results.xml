@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="26" passed="26" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-10-27T04:43:30Z" name="Default suite" finished-at="2019-10-27T04:43:30Z" duration-ms="406">
+    <groups>
+    </groups>
+    <test started-at="2019-10-27T04:43:30Z" name="Default test" finished-at="2019-10-27T04:43:30Z" duration-ms="406">
+      <class name="net.sf.jasperreports.CsvDataSourceTest">
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="343" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@2a8d39c4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@25b2cfcb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@72758afa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@fb9c7aa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@4c398c80]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7fc6de5b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@21baa903]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@607fbe09]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@60a2630a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@29df4d43]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@5dd91bca]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@40cb698e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@3382f8ae]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@60641ec8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@75f65e45]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@6eeade6c]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@4a891c97]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@a5bd950]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@4d18aa28]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@75390459]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7756c3cd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@2313052e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@2bd2b28e]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@16746061]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@57fd91c9]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@6cfcd46d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@52045dbe]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@674658f7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@5c8eee0f]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@565b064f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@26425897]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@73163d48]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@58c34bb3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@56a4479a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@62163b39]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@20a8a64e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@62f4ff3b]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@1698fc68]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@4504d271]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@207b8649]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@65b3a85a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@34997338]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@57eda880]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@2b5825fa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@53d1b9b3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@2cae1042]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@163d04ff]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7c209437]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@2262b621]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7e928e2f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+        <test-method signature="detectColumnNames([Ljava.lang.String;, [Ljava.lang.String;)[pri:0, instance:net.sf.jasperreports.CsvDataSourceTest@399c4be1]" started-at="2019-10-27T15:43:30Z" name="detectColumnNames" data-provider="detectedColumnNames" finished-at="2019-10-27T15:43:30Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@f667fe]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[Ljava.lang.String;@788fcafb]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- detectColumnNames -->
+      </class> <!-- net.sf.jasperreports.CsvDataSourceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,29 @@
+"This is a static text element containing styled text. Styled text elements are introduced by setting the markup attribute available for the textElement tag to styled and by formatting the text content using nested style tags and simple HTML tags, including hyperlinks."
+"This is a text field element containing RTF text. RTF snippets can be used inside text elements by setting the markup attribute available for the textElement tag to rtf.
+"
+"This is a text field element containing HTML text. HTML snippets can be used inside text elements by setting the markup attribute available for the textElement tag to html.
+
+This is a bulleted list of fruits:
+
+    •  apple
+    •  banana
+    •  cherry
+
+This is a numbered list of sports starting with number 4:
+
+    4.  football
+    5.  rugby
+    6.  tennis
+
+This is a lettered list of shapes starting with letter c:
+
+    c.  circle
+    d.  ellipse
+    e.  rectangle
+
+Following is a numbered list of animals using Roman numerals and starting with number 3 (III):
+
+    III.  lion
+    IV.  elephant
+    V.  zebra
+"
